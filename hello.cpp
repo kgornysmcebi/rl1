@@ -4,5 +4,8 @@ int main()
 {
     cout << "Hello, World!";
     cout << "Bye!!\r\n";
+    for (i=0; i<10; i++)
+	cout<<"bye in "<<10-i<<"\n";
+
     return 0;
 }
